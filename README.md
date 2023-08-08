@@ -1,2 +1,1 @@
-# famous-kpop
-Kpop popularity based on instagram followers.
+# Popularity The Member of Blackpink
